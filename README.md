@@ -1,8 +1,10 @@
-**English** · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md)
-
-# Shania Lawnmower
+# Shania Lawnmower — website audit app for SEO, security and accessibility
 
 > A Windows desktop app for intelligent website auditing: pick a site, pick a mode, read a plain-language report.
+
+By [Shania Webstudio](https://shaniawebstudio.com), Granada (Spain).
+
+**English** · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md)
 
 ![Shania Lawnmower](assets/banner.jpg)
 
